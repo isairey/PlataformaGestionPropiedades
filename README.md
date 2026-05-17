@@ -192,7 +192,8 @@ Módulo principal de administración.
 # 📂 Estructura del proyecto
 
 ```bash
-LaravelRentalManagement/
+PlataformaGestionPropiedades
+/
 │
 ├── app/                      # Lógica del sistema
 ├── bootstrap/                # Bootstrap Laravel
@@ -230,7 +231,8 @@ LaravelRentalManagement/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/LaravelRentalManagement.git
+git clone https://github.com/isairey/PlataformaGestionPropiedades
+.git
 ```
 
 ---
