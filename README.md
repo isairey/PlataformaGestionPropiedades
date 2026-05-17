@@ -334,27 +334,7 @@ http://127.0.0.1:8000
 
 ---
 
-# 📸 Vista previa
 
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### 🏠 Página principal
-![Home](https://dummyimage.com/1200x700/e5e5e5/000000&text=Laravel+Rental+Home)
-
-### 🔐 Inicio de sesión
-![Login](https://dummyimage.com/1200x700/d9d9d9/000000&text=Login+System)
-
-### 🏘️ Gestión de propiedades
-![Properties](https://dummyimage.com/1200x700/cfcfcf/000000&text=Property+Management)
-
-### 📊 Dashboard administrativo
-![Dashboard](https://dummyimage.com/1200x700/bfbfbf/000000&text=Admin+Dashboard)
-
-</div>
-
----
 
 # 🧠 Objetivos del proyecto
 
